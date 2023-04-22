@@ -1,7 +1,7 @@
 - 👍🏻 Hi, I’m @liamkaigates
-- 👀 I’m interested in data structures and algorithms.
+- 👀 I’m interested in machine learning and algorithms.
 - 🌱 I’m currently learning Computer Science Systems.
-- 🤝🏻 I’m looking to collaborate on projects involving Systems.
+- 🤝🏻 I’m looking to collaborate on projects involving systems and machine learning.
 - 📫 How to reach me: liamgates19@icloud.com or 9293428842
 
 <!---
