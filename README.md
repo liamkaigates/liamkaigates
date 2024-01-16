@@ -1,6 +1,6 @@
 - 👍🏻 Hi, I’m @liamkaigates
-- 👀 I’m interested in machine learning and algorithms.
-- 🌱 I’m currently learning about operating systems.
+- 👀 I’m a CS student at UMass Amherst.
+- 🌱 I’m currently learning about artificial intelligence.
 - 🤝🏻 I’m looking to collaborate on projects involving algorithms and machine learning.
 - 📫 How to reach me: liamkaigates.cs@gmail.com or 9293428842
 
