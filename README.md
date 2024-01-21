@@ -39,7 +39,7 @@ Hello! I'm Liam, a computer science student at UMass Amherst, delving into the i
 
 ### 📊 Stats
 
-![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamkaigates&show_icons=true&theme=transparent)
+![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamkaigates&show_icons=true&theme=dark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=liamkaigates&theme=gruvbox&border_radius=4.5) -->
 
