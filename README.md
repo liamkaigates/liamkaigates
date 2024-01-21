@@ -1,4 +1,4 @@
-# Hi there, I'm Liam Gates! 👋🏻
+# Hi there, I'm Liam! 👋🏻
 
 I'm a results-driven and detail-oriented computer science student from UMass Amherst, passionate about full-stack development. I enjoy tackling challenges and collaborating on innovative projects. 🚀
 
