@@ -24,8 +24,9 @@ I'm a results-driven and detail-oriented computer science student from UMass Amh
 
 ## 🌱 I'm currently learning
 
-- [Topic1](#)
-- [Topic2](#)
+- [Algorithms](#)
+- [Artficial Intelligence](#)
+- [AWS](#)
 
 ## 📈 GitHub Stats
 
@@ -33,9 +34,8 @@ I'm a results-driven and detail-oriented computer science student from UMass Amh
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- Twitter: [@YourTwitter](https://twitter.com/yourtwitter)
-- Email: your.email@example.com
+- LinkedIn: [liamkaigates](https://www.linkedin.com/in/liamkaigates/)
+- Email: liamkaigates.cs@gmail.com
 
 Feel free to connect and explore my projects! 😊
 
