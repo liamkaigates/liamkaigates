@@ -1,8 +1,6 @@
-# 👨🏻‍💻 Liam Gates
+# Hello, World! 👋🏻
 
-# Hello, World! 👋
-
-I'm [Your Name], a passionate [Your Profession] from [Your Location]. 🚀
+I'm Liam, a passionate computer science student at UMass Amherst. 🚀
 
 ## 🔧 Technologies & Tools
 
