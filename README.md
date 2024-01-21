@@ -32,7 +32,7 @@ I'm a results-driven and detail-oriented computer science student from UMass Amh
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=liamkaigates&show_icons=true&count_private=true&hide=prs,issues,contribs&themes=dark)](https://github.com/liamkaigates)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=liamkaigates&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=dark)](https://github.com/liamkaigates)
 
 ## 📫 How to reach me
 
