@@ -26,9 +26,9 @@ I'm a results-driven and detail-oriented computer science student from UMass Amh
 
 ## 🌱 I'm currently learning
 
-- [Algorithms](#)
-- [Artficial Intelligence](#)
-- [AWS](#)
+- [Algorithms](https://people.cs.umass.edu/~marius/class/cs311-sp24/?_gl=1*1q13tmi*_gcl_au*MTQzMTU4MzY2OS4xNzA1NzczMTc2*_ga*Mjk1NTk1MjY5LjE2NzU1NTAxODE.*_ga_21RLS0L7EB*MTcwNTg3MDQxMi4zLjEuMTcwNTg3MDQyMC4wLjAuMA..)
+- [Artficial Intelligence](https://people.cs.umass.edu/~sniekum/classes/383-F23/desc.php)
+- [AWS](aws.amazon.com)
 
 ## 📈 GitHub Stats
 
