@@ -8,7 +8,7 @@ Hello! I'm Liam, a computer science student at UMass Amherst, delving into the i
    <a href="https://github.com/liamkaigates?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/liamkaigates?color=4caf50&labelColor=000000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
-   <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+   <a href="https://github.com/liamkaigates?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/liamkaigates?color=ffeb3b&style=for-the-badge&labelColor=000000&logo=star"/>
    </a>
 </p>
