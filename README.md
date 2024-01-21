@@ -4,14 +4,15 @@
 
 Hello! I'm Liam, a computer science student at UMass Amherst, delving into the intricacies of full-stack development. I started my coding journey as a naive computer science student with a passion for learning everything I could about this programming world - code, Unix, Linux, and theory. Step by step, I'm constructing my version of the digital world within the academic realm. Each coding project begins with comprehensive planning and design, evolving into practical solutions.
 
-   <p align="left">
+<p align="left">
    <a href="https://github.com/liamkaigates?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/liamkaigates?color=4caf50&labelColor=ffffff&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
    <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/liamkaigates?color=4caf50&style=for-the-badge&labelColor=ffffff&logo=star"/>
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/liamkaigates?color=ffeb3b&style=for-the-badge&labelColor=ffffff&logo=star"/>
    </a>
 </p>
+
 
 
 ---
