@@ -1,47 +1,30 @@
 # 👨🏻‍💻 Liam Gates
 
-**`Computer Science Student at UMass Amherst`**
+# Hello, World! 👋
 
-Hello! I'm Liam, a computer science student at UMass Amherst, delving into the intricacies of full-stack development. I started my coding journey as a naive computer science student with a passion for learning everything I could about the field. Step by step, I'm constructing my version of the digital world within the academic realm. Each coding project begins with comprehensive planning and design, evolving into practical solutions.
+I'm [Your Name], a passionate [Your Profession] from [Your Location]. 🚀
 
-<p align="left">
-   <a href="https://github.com/liamkaigates?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/liamkaigates?color=4caf50&labelColor=000000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
-   <a href="https://github.com/liamkaigates?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/liamkaigates?color=ffeb3b&style=for-the-badge&labelColor=000000&logo=star"/>
-   </a>
-</p>
+## 🔧 Technologies & Tools
+
+![Tech1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
+![Tech2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
+![Tech3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)
+
+## 🌱 I'm currently learning
+
+- [Topic1](#)
+- [Topic2](#)
+
+## 📈 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/yourusername)
+
+## 📫 How to reach me
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
+- Twitter: [@YourTwitter](https://twitter.com/yourtwitter)
+- Email: your.email@example.com
+
+Feel free to connect and explore my projects! 😊
 
 
-
-
----
-
-### 🛠️ Languages and Frameworks
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px; filter: brightness(200%); background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px; filter: brightness(200%); background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
-
-#
-
-### 📈 GitHub Stats
-
-![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamkaigates&show_icons=true&theme=dark)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=liamkaigates&theme=gruvbox&border_radius=4.5) -->
-
-#
