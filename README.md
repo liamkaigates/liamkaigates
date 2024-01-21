@@ -2,7 +2,7 @@
 
 **`Computer Science Student at UMass Amherst`**
 
-Hello! I'm Liam, a computer science student at UMass Amherst, delving into the intricacies of full-stack development. I started my coding journey as a naive computer science student with a passion for learning everything I could about this programming world - code, Unix, Linux, and theory. Step by step, I'm constructing my version of the digital world within the academic realm. Each coding project begins with comprehensive planning and design, evolving into practical solutions.
+Hello! I'm Liam, a computer science student at UMass Amherst, delving into the intricacies of full-stack development. I started my coding journey as a naive computer science student with a passion for learning everything I could about the field. Step by step, I'm constructing my version of the digital world within the academic realm. Each coding project begins with comprehensive planning and design, evolving into practical solutions.
 
 <p align="left">
    <a href="https://github.com/liamkaigates?tab=followers">
