@@ -37,7 +37,7 @@ Hello! I'm Liam, a computer science student at UMass Amherst, delving into the i
 
 #
 
-### 📊 Stats
+### 📈 GitHub Stats
 
 ![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamkaigates&show_icons=true&theme=dark)
 
