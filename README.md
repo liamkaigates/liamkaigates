@@ -38,7 +38,7 @@ I'm a junior computer science student at UMass Amherst, passionate about full-st
 
 - LinkedIn: [liamkaigates](https://www.linkedin.com/in/liamkaigates/)
 - Email: liamkaigates.cs@gmail.com
-- Portfolio: [lgates.dec](https://www.lgates.dev)
+- Portfolio: [lgates.dev](https://www.lgates.dev)
 
 Feel free to connect and explore my projects! 😊
 
