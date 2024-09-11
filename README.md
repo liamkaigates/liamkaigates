@@ -11,9 +11,9 @@ I'm a senior computer science student at UMass Amherst, passionate about full-st
 
 ## 🌱 I'm currently learning
 
-- [Web Programming](https://tim-is.notion.site/COMPSCI-326-Web-Programming-4b91c5b62b5c4634a0aa324301e74a3c)
-- [Software Entrepreneurship](https://content.cs.umass.edu/content/fall-2024-course-descriptions?_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w#:~:text=COMPSCI%20420%3A%20Software%20Entrepreneurship)
-- [Theory and Practice of Software Engineering](https://content.cs.umass.edu/content/fall-2024-course-descriptions?_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w#:~:text=COMPSCI%20520%3A%20Theory%20and%20Practice%20of%20Software%20Engineering)
+- <a href="https://tim-is.notion.site/COMPSCI-326-Web-Programming-4b91c5b62b5c4634a0aa324301e74a3c" target="_blank">Web Programming</a>
+- <a href="https://content.cs.umass.edu/content/fall-2024-course-descriptions_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w#:~:text=COMPSCI%20420%3A%20Software%20Entrepreneurship" target="_blank">Software Entrepreneurship</a>
+- <a href="https://content.cs.umass.edu/content/fall-2024-course-descriptions?_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w#:~:text=COMPSCI%20520%3A%20Theory%20and%20Practice%20of%20Software%20Engineering" target="_blank">Theory and Practice of Software Engineering</a>
 
 ## 📈 GitHub Stats
 
@@ -21,9 +21,9 @@ I'm a senior computer science student at UMass Amherst, passionate about full-st
 
 ## 📫 How to reach me
 
-- LinkedIn: [liamkaigates](https://www.linkedin.com/in/liamkaigates/)
-- Email: liamkaigates.cs@gmail.com
-- Portfolio: [lgates.dev](https://www.lgates.dev)
+- LinkedIn: <a href="https://www.linkedin.com/in/liamkaigates/" target="_blank">liamkaigates</a>
+- Email: liamkaigates.work@gmail.com
+- Portfolio: <a href="https://www.lgates.dev" target="_blank">lgates.dev</a>
 
 Feel free to connect and explore my projects! 😊
 
