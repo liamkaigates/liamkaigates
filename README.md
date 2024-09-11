@@ -11,9 +11,9 @@ I'm a senior computer science student at UMass Amherst, passionate about full-st
 
 ## 🌱 I'm currently learning
 
-- <a href="https://tim-is.notion.site/COMPSCI-326-Web-Programming-4b91c5b62b5c4634a0aa324301e74a3c" target="_blank">Web Programming</a>
-- <a href="https://content.cs.umass.edu/content/fall-2024-course-descriptions_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w#:~:text=COMPSCI%20420%3A%20Software%20Entrepreneurship" target="_blank">Software Entrepreneurship</a>
-- <a href="https://content.cs.umass.edu/content/fall-2024-course-descriptions?_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w#:~:text=COMPSCI%20520%3A%20Theory%20and%20Practice%20of%20Software%20Engineering" target="_blank">Theory and Practice of Software Engineering</a>
+- <a href="https://content.cs.umass.edu/content/fall-2024-course-descriptions?_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w" target="_blank">Web Programming</a>
+- <a href="https://content.cs.umass.edu/content/fall-2024-course-descriptions?_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w" target="_blank">Software Entrepreneurship</a>
+- <a href="https://content.cs.umass.edu/content/fall-2024-course-descriptions?_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w" target="_blank">Theory and Practice of Software Engineering</a>
 
 ## 📈 GitHub Stats
 
