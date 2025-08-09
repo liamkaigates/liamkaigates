@@ -1,6 +1,6 @@
 <h1 align="center">Liam Gates</h1>
 <p align="center">Graduate CS Student · UMass Amherst</p>
-<p align="center"><em>Full‑stack developer exploring machine learning and AI</em></p>
+<p align="center"><em>Exploring Machine Learning and Deep Learning</em></p>
 
 ---
 
