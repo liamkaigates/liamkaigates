@@ -1,28 +1,52 @@
-# Hi there, I'm Liam! 👋🏻
+<h1 align="center">Liam Gates</h1>
+<p align="center">Graduate CS Student · UMass Amherst</p>
+<p align="center"><em>Full‑stack developer exploring machine learning and AI</em></p>
 
-I'm a senior computer science student at UMass Amherst, passionate about full-stack development and artificial intelligence. I enjoy tackling challenges and collaborating on innovative projects.
+---
 
-## 🔧 Technologies & Tools
+### Focus
+- Building data-driven applications
+- Researching deep learning models
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" /> <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> <img align="left" alt="SDL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" />
-<br />
+### Tools
+<p align="center">
+  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+  <img alt="PyTorch" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+  <img alt="TensorFlow" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+  <img alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
+  <img alt="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
+  <img alt="NodeJS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+  <img alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+  <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="Bash" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img alt="Flask" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+  <img alt="SDL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg"/>
+</p>
 
-## 🌱 I'm currently learning
+### Currently Learning
+- Advanced machine learning with PyTorch and TensorFlow
+- Research methods in artificial intelligence
 
-- <a href="https://content.cs.umass.edu/content/fall-2024-course-descriptions?_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w" target="_blank">Web Programming</a>
-- <a href="https://content.cs.umass.edu/content/fall-2024-course-descriptions?_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w" target="_blank">Software Entrepreneurship</a>
-- <a href="https://content.cs.umass.edu/content/fall-2024-course-descriptions?_gl=1*1nxewh5*_gcl_au*NzY3NDAzMjk5LjE3MjYwMTYyNjk.*_ga*MzczODAwMzMuMTcwNzY5OTY4Mg..*_ga_21RLS0L7EB*MTcyNjAxNjI3MC4yMDguMS4xNzI2MDE2Mjc2LjAuMC4w" target="_blank">Theory and Practice of Software Engineering</a>
+### Machine Learning Projects
+- [ie1-basic-stats](https://github.com/liamkaigates/ie1-basic-stats) – statistical utilities for machine learning experiments
+- [Chess-Python](https://github.com/liamkaigates/Chess-Python) – exploring move evaluation and search strategies in Python
 
-## 📈 GitHub Stats
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liamkaigates&show_icons=true&theme=transparent&hide_title=true"/>
+</p>
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=liamkaigates&show_icons=true&theme=dark)](https://github.com/liamkaigates)
-
-## 📫 How to reach me
-
-- LinkedIn: <a href="https://www.linkedin.com/in/liamkaigates/" target="_blank">liamkaigates</a>
-- Email: liamkaigates.work@gmail.com
-- Portfolio: <a href="https://www.lgates.dev" target="_blank">lgates.dev</a>
-
-Feel free to connect and explore my projects! 😊
-
+### Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/liamkaigates/" target="_blank">LinkedIn</a> ·
+  <a href="mailto:liamkaigates.work@gmail.com">Email</a> ·
+  <a href="https://www.lgates.dev" target="_blank">Portfolio</a>
+</p>
 
